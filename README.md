@@ -34,7 +34,7 @@ But [according to farouk](https://github.com/javalsai/lidm/issues/91#issuecommen
 - Simple as C, meant to depend only on standard libc and basic unix system headers.
 - Fully customizable: ALL strings, colors (with its ANSI keys) and most behavior.
 - Experimental Xorg support[\*](https://github.com/javalsai/lidm/pull/80?#issuecomment-3764073217) and wayland sessions, while supporting the default user shell (if enabled in config)
-- Init agnostinc (systemd, dinit, runit, openrc and s6).
+- Init agnostic (systemd, dinit, runit, openrc and s6).
 - Supports [fido yubikeys](./docs/yubikey.md) (via pam_u2f).
 
 # Table of Contents
